@@ -1,0 +1,25 @@
+# common
+.idea
+
+# backend
+backend/node_modules
+backend/.env*
+
+## backend log
+backend/log/*.log
+backend/log/*.pid
+backend/log/*.out
+backend/log/*.txt
+
+
+
+
+# frontend
+frontend/node_modules
+frontend/.env*
+
+## frontend log
+frontend/log/*.log
+frontend/log/*.pid
+frontend/log/*.out
+frontend/log/*.txt
